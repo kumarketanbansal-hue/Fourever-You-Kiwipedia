@@ -3,12 +3,31 @@ p {
     color: #4A4652;
 }
 
-html {
-    background-color: #F8F6FC;
-    color: #2D2A32;
-}
-
 h1 {
     color: #5B3E96;
     text-align: center;
+}
+
+* {
+    background-color:#F8F6FC;
+    color: #2D2A32;
+    font-weight: normal;
+}
+
+img {
+    height: 35rem;
+    width: 30rem;
+}
+
+.Couple {
+    border: 1rem solid #AF719D;
+}
+
+.Actors {
+    border: 0.4rem solid #8B639B;
+}
+
+.series {
+    border: 0.6rem solid #F6D8BD;
+    font-size: x-large;
 }
