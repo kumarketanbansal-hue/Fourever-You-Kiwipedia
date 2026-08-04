@@ -12,6 +12,7 @@ h1 {
     background-color:#F8F6FC;
     color: #2D2A32;
     font-weight: normal;
+    margin: 0%;
 }
 
 img {
@@ -21,13 +22,25 @@ img {
 
 .Couple {
     border: 1rem solid #AF719D;
+    position: relative;
+    height: 632.533px;;
+    width: 985px;
+
 }
 
 .Actors {
     border: 0.4rem solid #8B639B;
+    width: 480px;
+}
+
+.bottom {
+    position: relative;
+    top: -632.533px;
+    left: 492.8px;
 }
 
 .series {
     border: 0.6rem solid #F6D8BD;
     font-size: x-large;
+    width: 480px;
 }
