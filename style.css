@@ -1,6 +1,7 @@
 p {
     font-size: x-large;
     color: #4A4652;
+    border: 1rem solid #F8F6FC;
 }
 
 h1 {
@@ -83,14 +84,4 @@ ol {
     background-color: #241D4F;
     position: absolute;
     top: 100px;
-}
-
-.Profile {
-    position: relative;
-    width: 985px;
-}
-
-.Collection {
-    position: relative;
-    width: 1737.6px;
 }
