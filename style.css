@@ -27,9 +27,8 @@ img {
 .Couple {
     border: 1rem solid #AF719D;
     position: relative;
-    height: 632.533px;;
+    height: 630.533px;
     width: 985px;
-
 }
 
 .Actors {
@@ -39,14 +38,14 @@ img {
 
 .bottom {
     position: relative;
-    top: -632.533px;
+    top: -631.533px;
     left: 492.8px;
 }
 
 ol {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 200px;
+    column-gap: 100px;
     row-gap: 10px;
 }
 
@@ -86,3 +85,12 @@ ol {
     top: 100px;
 }
 
+.Profile {
+    position: relative;
+    width: 985px;
+}
+
+.Collection {
+    position: relative;
+    width: 1737.6px;
+}
